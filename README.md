@@ -1,5 +1,7 @@
 # PaperMind AI
 
+[![CI](https://github.com/imsohail07/PaperMindAI/actions/workflows/ci.yml/badge.svg)](https://github.com/imsohail07/PaperMindAI/actions/workflows/ci.yml)
+
 PaperMind AI is a production-grade **Retrieval-Augmented Generation (RAG)** application designed to accelerate research document analysis. It allows users to ingest complex PDF papers, perform context-aware queries, generate structured summaries, and run comparative evaluations between multiple documents. 
 
 ## Core Architecture & Stack
