@@ -1,0 +1,21 @@
+# Node
+node_modules/
+dist/
+build/
+.env.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# PaperMind AI Data
+backend/data/vectorstore/
+backend/data/papers/
+
+# OS Files
+.DS_Store
+Thumbs.db
